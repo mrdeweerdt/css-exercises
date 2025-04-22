@@ -1,0 +1,18 @@
+.default {
+    background-color: #dea2a2;
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.bigger-font {
+    font-size: 36px;
+}
+
+#bigblue {
+    color: #0000ff;
+    font-size: 30px;
+}
+
+#boldgreen {
+    background-color: #66ff33;
+    font-weight: bold;
+}
